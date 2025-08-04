@@ -1,0 +1,7 @@
+python-docx
+PyPDF2
+extract-msg
+requests
+faiss-cpu
+sentence-transformers
+python-dotenv
